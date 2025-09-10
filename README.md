@@ -5,7 +5,7 @@ This project demonstrates a clean architecture with REST APIs and a modern front
 
 ---
 
-## ✨ Features
+##  Features
 - Manage **showrooms** (name, address, etc.)
 - View **employees** by showroom
 - View **cars** by showroom
@@ -26,7 +26,3 @@ This project demonstrates a clean architecture with REST APIs and a modern front
 **Frontend (React)**
 - React + Vite
 - Axios (API calls)
-- CSS (dark theme styling)
-
-## 📂 Project Structure
-
